@@ -1,1 +1,4 @@
 *.class
+.antlr/*
+antlr-4.10*
+*Lexer.*
