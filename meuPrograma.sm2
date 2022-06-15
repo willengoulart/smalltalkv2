@@ -1,6 +1,9 @@
 Comente que isso é um comentário.Comentário feito
 
 Comente que isso é uma condição.Comentário feito
+
+declare numero como minhavar
+
 se (10 é igual a 10) então {
 	Comente que comentários podem ser feitos em qualquer lugar.Comentário feito
 	minhavar recebe o valor 10
@@ -14,31 +17,34 @@ se (10 é igual a 10) então {
 	minhavar recebe o valor 5
 }
 
-leia (minhavar)
+declare texto como outravar
+leia (outravar)
 
-imprima (minhvar)
+imprima (minhavar)
 imprima (10)
 
 imprima (true)
 
 Comente que essas são declarações.Comentário feito
-declare meuNumero como numero
-declare minhaString como texto
-declare onOff como booleano
+declare numero como meuNumero
+declare texto como minhaString
+declare booleano como onOff
 
 Comente que essas são atribuições.Comentário feito
 meuNumero recebe o valor 10
-onOff recebe o valor verdadeiro
-onOff recebe o valor false
+onOff recebe o valor verdade
+onOff recebe o valor mentira
 
 Comente que essas são atribuições.Comentário feito
-Enquanto (minhaVar é igual a 10) for verdade, repita {
-onOff recebe o valor false
+Enquanto (minhavar é igual a 10) for verdade, repita {
+onOff recebe o valor mentira
+minhavar recebe o valor 20
 }
 
 Comente que essas são atribuições.Comentário feito
  
-Iniciando em (i recebe o valor 0) e iterando (i recebe o valor 10) enquanto ( i é menor que 10) for verdade, repita {
+declare numero como i
+Iniciando em (i recebe o valor 0) enquanto ( i é menor que 10) for verdade e iterando (i recebe o valor 20), repita {
 	Comente que isso é uma condição.Comentário feito
 	se (10 é igual a 10) então {
 		Comente que comentários podem ser feitos em qualquer lugar.Comentário feito
