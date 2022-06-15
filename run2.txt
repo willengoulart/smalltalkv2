@@ -1,0 +1,5 @@
+SET CLASSPATH=.;C:\Users\125111370256\Documents\Smalltalkdois\antlr-4.10.1-complete.jar;%CLASSPATH%
+cls
+java org.antlr.v4.Tool Smalltalkdois.g4
+javac *.java
+java org.antlr.v4.gui.TestRig Smalltalkdois init -gui < meuPrograma.sm2

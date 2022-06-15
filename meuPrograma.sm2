@@ -1,0 +1,47 @@
+Comente que isso é um comentário.Comentário feito
+
+Comente que isso é uma condição.Comentário feito
+se (10 é igual a 10) então {
+	Comente que comentários podem ser feitos em qualquer lugar.Comentário feito
+	minhavar recebe o valor 10
+}
+
+Comente que isso é um comentario com else.Comentário feito
+se (10 é igual a 10) então {
+	Comente que comentários podem ser feitos em qualquer lugar.Comentário feito
+	minhavar recebe o valor 10
+} ou senão {
+	minhavar recebe o valor 5
+}
+
+leia (minhavar)
+
+imprima (minhvar)
+imprima (10)
+
+imprima (true)
+
+Comente que essas são declarações.Comentário feito
+declare meuNumero como numero
+declare minhaString como texto
+declare onOff como booleano
+
+Comente que essas são atribuições.Comentário feito
+meuNumero recebe o valor 10
+onOff recebe o valor verdadeiro
+onOff recebe o valor false
+
+Comente que essas são atribuições.Comentário feito
+Enquanto (minhaVar é igual a 10) for verdade, repita {
+onOff recebe o valor false
+}
+
+Comente que essas são atribuições.Comentário feito
+ 
+Iniciando em (i recebe o valor 0) e iterando (i recebe o valor 10) enquanto ( i é menor que 10) for verdade, repita {
+	Comente que isso é uma condição.Comentário feito
+	se (10 é igual a 10) então {
+		Comente que comentários podem ser feitos em qualquer lugar.Comentário feito
+		minhavar recebe o valor 10
+	}
+}
